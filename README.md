@@ -8,7 +8,7 @@ It externally (as a seperate program from the video game) reads and writes memor
 ### Cloning Repository
 Clone the repo using `git`.
 ```bash
-$ git clone https://github.com/yoshisaac/CounterStrikeSource-Linux-Trainer.git
+$ git clone https://github.com/yoshisaac/CounterStrikeSource-Linux-Cheat.git
 $ cd CounterStrikeSource-Linux-Trainer/
 ```
 
